@@ -1,0 +1,6 @@
+{
+  "name": "Jenus - Hızlı ve Gizlilik Odaklı Yapay Zeka",
+  "description": "Mobil öncelikli, ultra hızlı, sesli komut destekli, yerel cihazda işleme ve çevrimdışı çalışma özelliklerine sahip açık kaynaklı yapay zeka asistanı.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
